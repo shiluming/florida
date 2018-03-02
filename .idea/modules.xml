@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/florida.all.iml" filepath="$PROJECT_DIR$/.idea/modules/florida.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/florida.all_main.iml" filepath="$PROJECT_DIR$/.idea/modules/florida.all_main.iml" group="florida.all" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/florida.all_test.iml" filepath="$PROJECT_DIR$/.idea/modules/florida.all_test.iml" group="florida.all" />
+    </modules>
+  </component>
+</project>
