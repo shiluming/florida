@@ -1,0 +1,25 @@
+
+
+
+# 数据源配置
+
+florida:
+  datasource:
+  # 主数据库
+    master:
+      url: jdbc:mysql://localhost:3306/florida-master?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
+      username: root
+      password: 123456
+
+  # 从数据库
+    slave01:
+      url: jdbc:mysql://localhost:3306/florida-slave01?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
+      username: root
+      password: 123456
+
+  # 从数据库
+    slave02:
+      url: jdbc:mysql://localhost:3306/florida-slave02?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
+      username: root
+      password: 123456
+
